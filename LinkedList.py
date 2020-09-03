@@ -89,7 +89,6 @@ class Queue(object):
         self.dequeue(Node(minimum))     # remove minimum data from the queue
         self.dequeue(Node(maximum))     # remove maximum data from the queue
 
-    
 
 
 print("/////////////// below is Queue //////////////////")
